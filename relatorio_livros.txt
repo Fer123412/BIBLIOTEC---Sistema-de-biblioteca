@@ -1,0 +1,38 @@
+================================
+       RELATORIO DE LIVROS      
+================================
+
+Codigo: 20
+Titulo: Rust
+Valor: 60.00
+----------------------------
+Codigo: 21
+Titulo: TEC
+Valor: 23.00
+----------------------------
+Codigo: 4
+Titulo: Java
+Valor: 30.00
+----------------------------
+Codigo: 5
+Titulo: JavaScript
+Valor: 10.00
+----------------------------
+Codigo: 3
+Titulo: Python
+Valor: 20.00
+----------------------------
+Codigo: 2
+Titulo: LinguagemC
+Valor: 25.50
+----------------------------
+Codigo: 1
+Titulo: Tecnologias
+Valor: 23.00
+----------------------------
+Codigo: 10
+Titulo: FuturoTI
+Valor: 40.80
+----------------------------
+
+Total de livros: 8
