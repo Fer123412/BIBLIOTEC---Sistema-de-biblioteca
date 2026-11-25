@@ -1,4 +1,4 @@
-# 📚 BIBLIATEC — Sistema de Gerenciamento de Livros em C
+# 📚 BIBLIOTEC — Sistema de Gerenciamento de Livros em C
 
 Sistema de gerenciamento de biblioteca em linha de comando, desenvolvido em **C**, que utiliza **lista encadeada** para armazenar os livros e **pilha** para o histórico de ações, permitindo **desfazer** operações. Os dados são salvos em arquivo binário e é possível gerar um relatório em texto.
 
